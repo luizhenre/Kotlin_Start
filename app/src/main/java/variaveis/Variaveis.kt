@@ -14,6 +14,4 @@ fun main() {
     // imprimindo resultados com uma mensagem
     println("Resultado do calculo quando somado $num1 + $num2: ${num1+num2} \nsubtraido: ${num1-num2} \nDividido: ${num1/num2} \nMultiplicado: ${num1*num2} ")
 
-
-
 }
