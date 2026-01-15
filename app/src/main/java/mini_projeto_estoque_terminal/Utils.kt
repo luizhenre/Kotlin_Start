@@ -22,8 +22,8 @@ fun exibirMenu(menu: ArrayList<String>) {
             1 -> println("Total de produtos: ${totalProdutos(produtosEstoque)}")
             2 -> println("Produtos em falta: ${produtosEmFalta(produtosEstoque)}")
             3 -> println("Produtos com baixa quantidade: ${baixaQuantidade(produtosEstoque)}")
-            4 -> println(atualizarEstoque(produtosEstoque))
-            5 -> println(listarProdutos(produtosEstoque))
+            4 -> atualizarEstoque(produtosEstoque)
+            5 -> listarProdutos(produtosEstoque)
             0 -> println("Sistema Finalizado")
         }
 
