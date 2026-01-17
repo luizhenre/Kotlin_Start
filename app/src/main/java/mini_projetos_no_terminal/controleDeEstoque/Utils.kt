@@ -1,4 +1,4 @@
-package mini_projeto_estoque_terminal
+package mini_projetos_no_terminal.controleDeEstoque
 
 val menu = arrayListOf(
     "1 - Ver total de produtos no estoque",

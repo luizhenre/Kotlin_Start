@@ -1,4 +1,4 @@
-package mini_projeto_estoque_terminal
+package mini_projetos_no_terminal.controleDeEstoque
 
 fun totalProdutos(dados: IntArray): Int {
     var soma = 0

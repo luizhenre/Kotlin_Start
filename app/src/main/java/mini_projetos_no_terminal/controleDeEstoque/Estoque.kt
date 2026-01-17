@@ -1,4 +1,4 @@
-package mini_projeto_estoque_terminal
+package mini_projetos_no_terminal.controleDeEstoque
 
 var produtosEstoque = intArrayOf(10, 50, 20, 5, 0, 12, 15, 0, 3, 4)
 fun atualizarEstoque(dados: IntArray){
