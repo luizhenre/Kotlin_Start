@@ -26,9 +26,10 @@ Aqui registro minha evolução prática em:
 
 ## 📦 Mini projetos
 
-| Projeto | Descrição |
-|------|-----------|
+| Projeto                 | Descrição                                                                                   |
+|-------------------------|---------------------------------------------------------------------------------------------|
 | **Controle de Estoque** | Sistema em Kotlin via terminal para controle de produtos, relatórios e atualização de dados |
+| **Controle de Alunos**  | Sistema em Kotlin via terminal para controle de notas, atualização e consulta de status     |
 
 > Cada mini projeto possui seu próprio README dentro da pasta correspondente.
 
