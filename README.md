@@ -9,6 +9,7 @@ Aqui registro minha evolução prática em:
 - Arrays
 - Funções
 - Organização de projetos
+- OOP
 - Git e GitHub
 
 ---
@@ -21,6 +22,7 @@ Aqui registro minha evolução prática em:
 ✔ Arrays  
 ✔ Funções (parâmetros, retorno, reutilização)  
 ✔ Organização de código em múltiplos arquivos  
+✔ Orientação a objetos (`Abstração`, `Escapsulamento`, `Herança`, `Polimorfismo`)
 
 ---
 
@@ -30,6 +32,7 @@ Aqui registro minha evolução prática em:
 |-------------------------|---------------------------------------------------------------------------------------------|
 | **Controle de Estoque** | Sistema em Kotlin via terminal para controle de produtos, relatórios e atualização de dados |
 | **Controle de Alunos**  | Sistema em Kotlin via terminal para controle de notas, atualização e consulta de status     |
+| **Controle de Alunos - OOP**  | Sistema Controle de alunos refatorado com conceitos de Orientação a Objetos           |
 
 > Cada mini projeto possui seu próprio README dentro da pasta correspondente.
 
