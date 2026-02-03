@@ -1,4 +1,4 @@
-package com.luizh.estudos.terminal.miniprojetos.alunos
+package com.luizh.estudos.terminal.miniprojetos.alunos.procedural
 
 var menu = arrayOf(
     "1 - Listar alunos e notas",
@@ -20,10 +20,10 @@ fun sistemaDeAlunos() {
         println("Informe o número da opção desejada: ")
         var opcao = readln().toInt()
         when (opcao) {
-            1 -> alunosNotas(alunos,notas)
+            1 -> alunosNotas(alunos, notas)
             2 -> mediaTurma(notas)
-            3 -> situacaoAluno(alunos,notas)
-            4 -> atualizarNota(alunos,notas)
+            3 -> situacaoAluno(alunos, notas)
+            4 -> atualizarNota(alunos, notas)
             5 -> compilaStatusGeral(notas)
             0 -> println("Sistema Encerrado!")
         }

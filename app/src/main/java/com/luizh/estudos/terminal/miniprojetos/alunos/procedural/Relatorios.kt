@@ -1,4 +1,4 @@
-package com.luizh.estudos.terminal.miniprojetos.alunos
+package com.luizh.estudos.terminal.miniprojetos.alunos.procedural
 
 fun alunosNotas(estudante: Array<String>, pontos: DoubleArray) {
 
